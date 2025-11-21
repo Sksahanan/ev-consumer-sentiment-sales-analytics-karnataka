@@ -1,0 +1,27 @@
+brand_key,Model Name,Price (INR),Riding Range (km),Top Speed (kmph),Weight (kg),Battery (kWh),Charging Time (hrs),Rated Power (W)
+Ampere,Ampere Magnus EX,68999,121,50,108,2.3,6.5,1200
+Ampere,Ampere Magnus Pro,66053,80,55,94,1.68,5.5,1200
+Ampere,Ampere REO,59000,70,25,70.3,1.3,5.3,250
+Ampere,Ampere Zeal,67478,121,53,78,2.3,6.5,1200
+Ather,Ather 450X,147619,126,90,108,2.9,4.3,6400
+Bajaj,Bajaj Chetak,127206,153,73,134,3.5,40,4200
+Benling,Benling Aura,91667,120,60,86,2.88,6,2500
+Hero Electric,Hero Electric Atria,77690,85,25,69,1.54,4.5,250
+Hero Electric,Hero Electric Flash,59594,85,25,69,1.536,4.5,250
+Hero Electric,Hero Electric NYX,67582,85,25,68,1.536,4.5,250
+Hero Electric,Hero Electric NYX HX,86490,138,42,87,3.072,4.5,600
+Hero Electric,Hero Electric Optima,67280,85,25,72,1.536,4.5,250
+Hero Electric,Hero Electric Optima CX,67329,82,42,72.5,1.536,4.5,550
+Hero Electric,Hero Electric Photon,74240,108,45,87,1.9,5,1200
+Okinawa,Okinawa Lite,69087,60,25,72,1.25,4.5,250
+Okinawa,Okinawa Praise,85223,88,58,139,2,2.5,1000
+Okinawa,Okinawa R30,61998,60,25,64,1.25,4.5,250
+Okinawa,Okinawa Ridge Plus,90606,81,45,100,1.7,2.5,1600
+Okinawa,Okinawa i-Praise,122955,137,56,110,3.3,4.5,2500
+Ola,OLA S1,125885,151,90,108,3,5,2700
+Ola,OLA S1 Pro,157698,197,120,116,4,6.5,5000
+Pure EV,PURE EV EPluto 7G,77999,101,47,76,1.8,4,1200
+Pure EV,PURE EV ETrance Neo,73999,101,47,86,1.8,4,1200
+Revolt,Revolt RV 300,94999,180,65,101,2.7,4.2,1500
+Revolt,Revolt RV 400,124000,150,85,108,3.24,4.5,3000
+TVS,TVS iQube,109250,94,75,115,2.2,5,4400
