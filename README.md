@@ -212,6 +212,7 @@ The Power BI dashboard (or equivalent BI tool) allows users to:
   - Trends in units sold over time.
   - Average ratings, reliability, performance, and comfort.
   - Sentiment distributions and top positive/negative themes.
+<img width="1179" height="667" alt="image" src="https://github.com/user-attachments/assets/06ece8d3-5edd-4b0e-9938-7bd2e5be725a" />
 
 This dashboard is the main **decision interface** for non-technical stakeholders.
 
